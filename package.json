@@ -3,7 +3,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", RoboticaDellaVolpe
+  "main": "bot.js", 462962382935818260
   "scripts": {
     "start": "node bot.js"
   },
